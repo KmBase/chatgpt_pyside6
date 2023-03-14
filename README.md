@@ -1,1 +1,3 @@
-# chatgpt_pyside6
+# chatgpt proxy
+
+- https://openai.geekr.cool
